@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c1ab24c1.css",
-    "main.js": "/static/js/main.e989d98b.js",
+    "main.js": "/static/js/main.edf3bd92.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Decan_Chronicle.png": "/static/media/Decan_Chronicle.f2cb57fdccbc4956e87e.png",
     "static/media/Weather_App_1.png": "/static/media/Weather_App_1.9310c915d3a330109202.png",
@@ -11,11 +11,11 @@
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.c1ab24c1.css.map": "/static/css/main.c1ab24c1.css.map",
-    "main.e989d98b.js.map": "/static/js/main.e989d98b.js.map",
+    "main.edf3bd92.js.map": "/static/js/main.edf3bd92.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ab24c1.css",
-    "static/js/main.e989d98b.js"
+    "static/js/main.edf3bd92.js"
   ]
 }
