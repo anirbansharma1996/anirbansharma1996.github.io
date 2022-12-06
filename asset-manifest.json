@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.c1ab24c1.css",
-    "main.js": "/static/js/main.edf3bd92.js",
+    "main.js": "/static/js/main.f9d18c40.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Decan_Chronicle.png": "/static/media/Decan_Chronicle.f2cb57fdccbc4956e87e.png",
-    "static/media/Weather_App_1.png": "/static/media/Weather_App_1.9310c915d3a330109202.png",
-    "static/media/Hotjar.png": "/static/media/Hotjar.c78fab585154b0bc6d56.png",
+    "static/media/Weather_App_1.png": "/static/media/Weather_App_1.a6aa07fc8550b7408bca.png",
+    "static/media/myGlam.png": "/static/media/myGlam.79b7b4b3cc311c90fca8.png",
+    "static/media/WhyWrike.png": "/static/media/WhyWrike.96243dfdf741617f2fb2.png",
     "static/media/editted.png": "/static/media/editted.699add2c34cfc620c6a2.png",
     "static/media/Anirban-name.jpg": "/static/media/Anirban-name.cf9b763778c7a5c8818c.jpg",
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.c1ab24c1.css.map": "/static/css/main.c1ab24c1.css.map",
-    "main.edf3bd92.js.map": "/static/js/main.edf3bd92.js.map",
+    "main.f9d18c40.js.map": "/static/js/main.f9d18c40.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ab24c1.css",
-    "static/js/main.edf3bd92.js"
+    "static/js/main.f9d18c40.js"
   ]
 }
