@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.b2cbcad5.css",
-    "main.js": "/static/js/main.c23c6cde.js",
+    "main.js": "/static/js/main.b40439be.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
-    "static/media/Weather_App_1.png": "/static/media/Weather_App_1.a6aa07fc8550b7408bca.png",
     "static/media/myGlam.png": "/static/media/myGlam.79b7b4b3cc311c90fca8.png",
+    "static/media/weatherApp.png": "/static/media/weatherApp.2451b1092f30286221b8.png",
     "static/media/WhyWrike.png": "/static/media/WhyWrike.96243dfdf741617f2fb2.png",
+    "static/media/jobhunt.png": "/static/media/jobhunt.1b401627094345acad72.png",
     "static/media/editted.png": "/static/media/editted.699add2c34cfc620c6a2.png",
+    "static/media/todoApp.png": "/static/media/todoApp.0afbe0c6a1d9770c864f.png",
     "static/media/tictactoe.png": "/static/media/tictactoe.dc2c3eb33cbcdf6a1f33.png",
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.b2cbcad5.css.map": "/static/css/main.b2cbcad5.css.map",
-    "main.c23c6cde.js.map": "/static/js/main.c23c6cde.js.map",
+    "main.b40439be.js.map": "/static/js/main.b40439be.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cbcad5.css",
-    "static/js/main.c23c6cde.js"
+    "static/js/main.b40439be.js"
   ]
 }
