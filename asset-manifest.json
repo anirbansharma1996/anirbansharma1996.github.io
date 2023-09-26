@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.79f88d2c.css",
-    "main.js": "/static/js/main.98ee77c8.js",
+    "main.js": "/static/js/main.8e87ebbe.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
     "static/media/divine-beauty.png": "/static/media/divine-beauty.4c5ccbc438712dda15fa.png",
     "static/media/ideaInk.png": "/static/media/ideaInk.8e8b668ccb0d1e2e0307.png",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.79f88d2c.css.map": "/static/css/main.79f88d2c.css.map",
-    "main.98ee77c8.js.map": "/static/js/main.98ee77c8.js.map",
+    "main.8e87ebbe.js.map": "/static/js/main.8e87ebbe.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79f88d2c.css",
-    "static/js/main.98ee77c8.js"
+    "static/js/main.8e87ebbe.js"
   ]
 }
