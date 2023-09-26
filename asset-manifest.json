@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.79f88d2c.css",
-    "main.js": "/static/js/main.fd1d43f8.js",
+    "main.js": "/static/js/main.98ee77c8.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
+    "static/media/divine-beauty.png": "/static/media/divine-beauty.4c5ccbc438712dda15fa.png",
     "static/media/ideaInk.png": "/static/media/ideaInk.8e8b668ccb0d1e2e0307.png",
     "static/media/myGlam.png": "/static/media/myGlam.79b7b4b3cc311c90fca8.png",
     "static/media/weatherApp.png": "/static/media/weatherApp.2451b1092f30286221b8.png",
     "static/media/jobhunt.png": "/static/media/jobhunt.1b401627094345acad72.png",
-    "static/media/quizz_app.png": "/static/media/quizz_app.42f2479271301431c873.png",
     "static/media/arya-ai.png": "/static/media/arya-ai.89d6ffd2c9faf660bc97.png",
     "static/media/editted.png": "/static/media/editted.699add2c34cfc620c6a2.png",
     "static/media/todoApp.png": "/static/media/todoApp.0afbe0c6a1d9770c864f.png",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.79f88d2c.css.map": "/static/css/main.79f88d2c.css.map",
-    "main.fd1d43f8.js.map": "/static/js/main.fd1d43f8.js.map",
+    "main.98ee77c8.js.map": "/static/js/main.98ee77c8.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79f88d2c.css",
-    "static/js/main.fd1d43f8.js"
+    "static/js/main.98ee77c8.js"
   ]
 }
