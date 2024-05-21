@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a375e0f.css",
-    "main.js": "/static/js/main.609801be.js",
+    "main.css": "/static/css/main.f3f75673.css",
+    "main.js": "/static/js/main.071dfc8c.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
     "static/media/divine-beauty.png": "/static/media/divine-beauty.4c5ccbc438712dda15fa.png",
     "static/media/ideaInk.png": "/static/media/ideaInk.8e8b668ccb0d1e2e0307.png",
@@ -15,12 +15,12 @@
     "static/media/tictactoe.png": "/static/media/tictactoe.dc2c3eb33cbcdf6a1f33.png",
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
-    "main.1a375e0f.css.map": "/static/css/main.1a375e0f.css.map",
-    "main.609801be.js.map": "/static/js/main.609801be.js.map",
+    "main.f3f75673.css.map": "/static/css/main.f3f75673.css.map",
+    "main.071dfc8c.js.map": "/static/js/main.071dfc8c.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a375e0f.css",
-    "static/js/main.609801be.js"
+    "static/css/main.f3f75673.css",
+    "static/js/main.071dfc8c.js"
   ]
 }
