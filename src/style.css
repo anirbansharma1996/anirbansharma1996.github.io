@@ -470,16 +470,14 @@ button:focus {
   border: 1.8px solid white !important;
   border-radius: 20px !important ;
   transition: all 0.4s ease 0s !important;
-  
+  position: relative;
 }
 .project-card-view:hover {
   transform: scale(1.03) !important;
   overflow: hidden !important;
-  /* box-shadow: 0px 4px 4px 5px #107a8f !important; */
   border: 2.5px solid #107a8f !important;
-  /* transition: 0.4ms ease-in-out !important; */
- 
 }
+
 
 .blog-card {
   padding-top: 50px !important;

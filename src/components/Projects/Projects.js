@@ -6,10 +6,7 @@ import Sched from "../../Assets/Projects/divine-beauty.png";
 import weatherapp from "../../Assets/Projects/weatherApp.png";
 import arya from "../../Assets/Projects/arya-ai.png";
 import ideaink from "../../Assets/Projects/ideaInk.png";
-import todoapp from "../../Assets/Projects/todoApp.png";
 import Myglam from "../../Assets/Projects/myGlam.png";
-import jobHunt from "../../Assets/Projects/jobhunt.png";
-
 
 const projects = [
   {
@@ -30,6 +27,25 @@ const projects = [
     ],
     ghLink: "https://darshan-iota.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/darshan",
+  },
+  {
+    imgPath: "https://github.com/anirbansharma1996/Tomato/raw/main/home.png",
+    isBlog: false,
+    title: "Tomato.",
+    description:
+      "Tomato is a dynamic and user-friendly clone of Zomato, designed to provide a seamless experience for food enthusiasts. This project showcases my skills in building modern web applications using the MERN stack.",
+    techStack: [
+      "JavaScript",
+      "React.JS",
+      "CSS",
+      "Node.JS",
+      "Express.JS",
+      "MongoDB",
+      "JWT",
+      "REST Api",
+    ],
+    ghLink: "tomato-gray-five.vercel.app",
+    demoLink: "https://github.com/anirbansharma1996/Tomato",
   },
   {
     imgPath: arya,
@@ -67,16 +83,34 @@ const projects = [
     ghLink: "https://divine-beauty.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Divine-Beauty",
   },
-  // {
-  //   imgPath: Myglam,
-  //   isBlog: false,
-  //   title: "My Glamm",
-  //   description:
-  //     "It is a clone project of a Product based website. International beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store.",
-  //   techStack: ["ES6", "JavaScript", "Chakra UI", "React.Js"],
-  //   ghLink: "https://my-glam-clone.vercel.app/",
-  //   demoLink: "https://github.com/anirbansharma1996/myGlamClone",
-  // },
+  {
+    imgPath:
+      "https://github.com/anirbansharma1996/Urban-Nest/raw/main/home.png",
+    isBlog: false,
+    title: "Urban Nest",
+    description:
+      "Urban Nest is an e-commerce website offering a wide range of products for men, women, and kids. It provides a seamless shopping experience with secure payment processing, allowing users to easily purchase items for the whole family.",
+    techStack: [
+      "React.JS",
+      "Node.JS",
+      "Express.JS",
+      "MongoDB",
+      "REST Api",
+      "JWT",
+    ],
+    ghLink: "urban-nest-vert.vercel.app",
+    demoLink: "https://github.com/anirbansharma1996/Urban-Nest",
+  },
+  {
+    imgPath: Myglam,
+    isBlog: false,
+    title: "My Glamm",
+    description:
+      "It is a clone project of a Product based website. International beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store.",
+    techStack: ["ES6", "JavaScript", "Chakra UI", "React.Js"],
+    ghLink: "https://my-glam-clone.vercel.app/",
+    demoLink: "https://github.com/anirbansharma1996/myGlamClone",
+  },
   {
     imgPath: ideaink,
     isBlog: false,
@@ -118,42 +152,48 @@ const projects = [
 ];
 
 function Projects() {
+
+
   return (
-    <Container fluid className="project-section">
-      <Container>
-        <h1 className="project-heading">
-          My Recent <strong className="teal">Projects </strong>
-        </h1>
-        <p style={{ color: "white" }}>
-          Here are a few things I've worked on recently.
-        </p>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          {projects.map((project, index) => (
-            <Col md={4} className="project-card" key={index}>
-              <ProjectCard
-                imgPath={project.imgPath}
-                isBlog={project.isBlog}
-                title={project.title}
-                description={
-                  <span>
-                    <b>📋[ Description ]</b> : {project.description}
-                    <br />
-                    <br />
-                    
-                    <p>
-                     <b>⚙️[ Tech Stack ]</b> : &nbsp;
-                      {project.techStack.join(" | ")}
-                    </p>{" "}
-                  </span>
-                }
-                ghLink={project.ghLink}
-                demoLink={project.demoLink}
-              />
-            </Col>
-          ))}
-        </Row>
+    <>
+      <Container fluid className="project-section swipper">
+        <Container>
+          <h1 className="project-heading">
+            My Recent <strong className="teal">Projects </strong>
+          </h1>
+          <p style={{ color: "white" }}>
+            Here are a few things I've worked on recently.
+          </p>
+          <Row
+            classname="swiper-wrapper"
+            style={{ justifyContent: "center", paddingBottom: "10px" }}
+          >
+            {projects.map((project, index) => (
+              <Col md={4} className="project-card" key={index}>
+                <ProjectCard
+                  imgPath={project.imgPath}
+                  isBlog={project.isBlog}
+                  title={project.title}
+                  description={
+                    <span>
+                      <b>📋[ Description ]</b> : {project.description}
+                      <br />
+                      <br />
+                      <p>
+                        <b>⚙️[ Tech Stack ]</b> : &nbsp;
+                        {project.techStack.join(" | ")}
+                      </p>{" "}
+                    </span>
+                  }
+                  ghLink={project.ghLink}
+                  demoLink={project.demoLink}
+                />
+              </Col>
+            ))}
+          </Row>
+        </Container>
       </Container>
-    </Container>
+    </>
   );
 }
 

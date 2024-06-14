@@ -38,13 +38,10 @@ function Home2() {
                       <i>React JS</i>
                     </li>
                     <li>
+                      <i>Next JS</i>
+                    </li>
+                    <li>
                       <i>Redux</i>
-                    </li>
-                    <li>
-                      <i>CSS 3</i>
-                    </li>
-                    <li>
-                      <i>HTML 5</i>
                     </li>
                   </ul>
                 </li>
@@ -56,6 +53,14 @@ function Home2() {
                     </li>
                     <li>
                       <i>Express JS</i>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <b>Database:</b>
+                  <ul>
+                    <li>
+                      <i>MongoDB</i>
                     </li>
                   </ul>
                 </li>
