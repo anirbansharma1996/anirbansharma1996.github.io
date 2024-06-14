@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3f75673.css",
-    "main.js": "/static/js/main.071dfc8c.js",
+    "main.css": "/static/css/main.76ca045e.css",
+    "main.js": "/static/js/main.fbed2e59.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
     "static/media/divine-beauty.png": "/static/media/divine-beauty.4c5ccbc438712dda15fa.png",
     "static/media/ideaInk.png": "/static/media/ideaInk.8e8b668ccb0d1e2e0307.png",
     "static/media/RG Logo.jpeg": "/static/media/RG Logo.a6b6046490daa42e3556.jpeg",
     "static/media/myGlam.png": "/static/media/myGlam.79b7b4b3cc311c90fca8.png",
     "static/media/weatherApp.png": "/static/media/weatherApp.2451b1092f30286221b8.png",
-    "static/media/jobhunt.png": "/static/media/jobhunt.1b401627094345acad72.png",
     "static/media/arya-ai.png": "/static/media/arya-ai.89d6ffd2c9faf660bc97.png",
     "static/media/editted.png": "/static/media/editted.699add2c34cfc620c6a2.png",
-    "static/media/todoApp.png": "/static/media/todoApp.0afbe0c6a1d9770c864f.png",
     "static/media/tictactoe.png": "/static/media/tictactoe.dc2c3eb33cbcdf6a1f33.png",
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
-    "main.f3f75673.css.map": "/static/css/main.f3f75673.css.map",
-    "main.071dfc8c.js.map": "/static/js/main.071dfc8c.js.map",
+    "main.76ca045e.css.map": "/static/css/main.76ca045e.css.map",
+    "main.fbed2e59.js.map": "/static/js/main.fbed2e59.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3f75673.css",
-    "static/js/main.071dfc8c.js"
+    "static/css/main.76ca045e.css",
+    "static/js/main.fbed2e59.js"
   ]
 }
