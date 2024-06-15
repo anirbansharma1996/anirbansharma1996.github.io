@@ -44,7 +44,7 @@ const projects = [
       "JWT",
       "REST Api",
     ],
-    ghLink: "tomato-gray-five.vercel.app",
+    ghLink: "https://tomato-gray-five.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Tomato",
   },
   {
@@ -98,7 +98,7 @@ const projects = [
       "REST Api",
       "JWT",
     ],
-    ghLink: "urban-nest-vert.vercel.app",
+    ghLink: "https://urban-nest-vert.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Urban-Nest",
   },
   {
