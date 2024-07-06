@@ -6,6 +6,7 @@ import Sched from "../../Assets/Projects/divine-beauty.png";
 import weatherapp from "../../Assets/Projects/weatherApp.png";
 import arya from "../../Assets/Projects/arya-ai.png";
 import ideaink from "../../Assets/Projects/ideaInk.png";
+import jarvis from "../../Assets/Projects/jarvis-github1.png";
 import Myglam from "../../Assets/Projects/myGlam.png";
 
 const projects = [
@@ -46,6 +47,25 @@ const projects = [
     ],
     ghLink: "https://tomato-gray-five.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Tomato",
+  },
+  {
+    imgPath: jarvis,
+    isBlog: false,
+    title: "Jarvis",
+    description:
+      "Jarvis is an AI-driven application designed to provide a seamless and efficient user experience for various tasks. Build using Gemini flash 1.5",
+    techStack: [
+      "React.Js",
+      "Chakra UI",
+      "JavaScript",
+      "MongoDB",
+      "Gemini 1.5",
+      "Node.Js",
+      "Express.Js",
+      "OAuth2",
+    ],
+    ghLink: "https://jarvis-swart.vercel.app",
+    demoLink: "https://github.com/anirbansharma1996/Jarvis",
   },
   {
     imgPath: arya,
@@ -101,16 +121,16 @@ const projects = [
     ghLink: "https://urban-nest-vert.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Urban-Nest",
   },
-  {
-    imgPath: Myglam,
-    isBlog: false,
-    title: "My Glamm",
-    description:
-      "It is a clone project of a Product based website. International beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store.",
-    techStack: ["ES6", "JavaScript", "Chakra UI", "React.Js"],
-    ghLink: "https://my-glam-clone.vercel.app/",
-    demoLink: "https://github.com/anirbansharma1996/myGlamClone",
-  },
+  // {
+  //   imgPath: Myglam,
+  //   isBlog: false,
+  //   title: "My Glamm",
+  //   description:
+  //     "It is a clone project of a Product based website. International beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store.",
+  //   techStack: ["ES6", "JavaScript", "Chakra UI", "React.Js"],
+  //   ghLink: "https://my-glam-clone.vercel.app/",
+  //   demoLink: "https://github.com/anirbansharma1996/myGlamClone",
+  // },
   {
     imgPath: ideaink,
     isBlog: false,
