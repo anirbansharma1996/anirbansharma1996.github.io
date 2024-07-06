@@ -53,7 +53,7 @@ const projects = [
     isBlog: false,
     title: "Jarvis",
     description:
-      "Jarvis is an AI-driven application designed to provide a seamless and efficient user experience for various tasks. Build using Gemini flash 1.5",
+      "Jarvis is an AI-driven application designed to provide a seamless and efficient user experience for various tasks. Build using Gemini 1.5",
     techStack: [
       "React.Js",
       "Chakra UI",
