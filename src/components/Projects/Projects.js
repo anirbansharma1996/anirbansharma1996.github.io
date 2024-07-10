@@ -7,13 +7,13 @@ import weatherapp from "../../Assets/Projects/weatherApp.png";
 import arya from "../../Assets/Projects/arya-ai.png";
 import ideaink from "../../Assets/Projects/ideaInk.png";
 import jarvis from "../../Assets/Projects/jarvis-github1.png";
-import Myglam from "../../Assets/Projects/myGlam.png";
+import buyit from "../../Assets/Projects/buyit-git-1.png";
 
 const projects = [
   {
     imgPath:
       "https://github.com/anirbansharma1996/darshan/raw/main/public/darshan.png",
-    isBlog: false,
+    isBlog:"Video Conferencing" ,
     title: "Darshan",
     description:
       "A Professional enterprise-ready video conferencing app , where you can Start an Instant Meeting , Join Meeting via invitation link,Schedule Meeting,View Meeting Recordings",
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     imgPath: "https://github.com/anirbansharma1996/Tomato/raw/main/home.png",
-    isBlog: false,
+    isBlog: "Food Delivery",
     title: "Tomato.",
     description:
       "Tomato is a dynamic and user-friendly clone of Zomato, designed to provide a seamless experience for food enthusiasts. This project showcases my skills in building modern web applications using the MERN stack.",
@@ -50,7 +50,7 @@ const projects = [
   },
   {
     imgPath: jarvis,
-    isBlog: false,
+    isBlog: "Artificial Intelligence",
     title: "Jarvis",
     description:
       "Jarvis is an AI-driven application designed to provide a seamless and efficient user experience for various tasks. Build using Gemini 1.5",
@@ -69,7 +69,7 @@ const projects = [
   },
   {
     imgPath: arya,
-    isBlog: false,
+    isBlog: "Artificial Intelligence",
     title: "Arya AI",
     description:
       "Arya AI can create images based on certain criteria, generate code snippets for different programming languages, and can generate witty conversation.",
@@ -88,7 +88,7 @@ const projects = [
   },
   {
     imgPath: Sched,
-    isBlog: false,
+    isBlog: "E-Commerce",
     title: "Divine Beauty",
     description:
       "DivineBeauty is a E-Commerce website. Discover the latest beauty trends, browse a wide range of skincare and cosmetic products, and connect with a community of beauty enthusiasts.",
@@ -106,7 +106,7 @@ const projects = [
   {
     imgPath:
       "https://github.com/anirbansharma1996/Urban-Nest/raw/main/home.png",
-    isBlog: false,
+    isBlog: "E-Commerce",
     title: "Urban Nest",
     description:
       "Urban Nest is an e-commerce website offering a wide range of products for men, women, and kids. It provides a seamless shopping experience with secure payment processing, allowing users to easily purchase items for the whole family.",
@@ -121,19 +121,19 @@ const projects = [
     ghLink: "https://urban-nest-vert.vercel.app",
     demoLink: "https://github.com/anirbansharma1996/Urban-Nest",
   },
-  // {
-  //   imgPath: Myglam,
-  //   isBlog: false,
-  //   title: "My Glamm",
-  //   description:
-  //     "It is a clone project of a Product based website. International beauty products & cosmetic makeup items on MyGlamm, the online beauty shopping store.",
-  //   techStack: ["ES6", "JavaScript", "Chakra UI", "React.Js"],
-  //   ghLink: "https://my-glam-clone.vercel.app/",
-  //   demoLink: "https://github.com/anirbansharma1996/myGlamClone",
-  // },
+  {
+    imgPath: buyit,
+    isBlog: "E-Commerce",
+    title: "BuyIT",
+    description:
+      "BuyIT is a web application inspired by Blinkit, designed to provide a seamless online shopping experience for users to order and receive items delivered to their doorstep.",
+    techStack: ["ES6", "TypeScript", "OAuth2", "React.Js","JSON"],
+    ghLink: "https://buy-it-blue.vercel.app/",
+    demoLink: "https://github.com/anirbansharma1996/BuyIt",
+  },
   {
     imgPath: ideaink,
-    isBlog: false,
+    isBlog: "Blog Post",
     title: "IdeaInk",
     description:
       "Say hello to 'ideaInk' – your microblogging destination like no other!",
@@ -150,7 +150,7 @@ const projects = [
   },
   {
     imgPath: weatherapp,
-    isBlog: false,
+    isBlog: "General",
     title: "Weather App",
     description:
       "Weather apps are the simplest method to know about the updates of the upcoming weather.",
@@ -158,17 +158,17 @@ const projects = [
     ghLink: "https://weatherapp-ten-eta.vercel.app/",
     demoLink: "https://github.com/anirbansharma1996/weatherapp",
   },
-  {
-    imgPath: CarboTrack,
-    isBlog: false,
-    title: "Tic-Tac-Toe",
-    description:
-      "Tic-tac-toe is a paper-and-pencil game for two players. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.",
-    techStack: ["HTML 5", "CSS 3", "JavaScript", "ES6"],
-    ghLink: "https://tic-tack-toe-lilac.vercel.app/",
-    demoLink:
-      "https://github.com/masai-course/anirban_fw20_0875/tree/master/unit-1/sprint-1/day-1/TicTackToe",
-  },
+  // {
+  //   imgPath: CarboTrack,
+  //   isBlog: false,
+  //   title: "Tic-Tac-Toe",
+  //   description:
+  //     "Tic-tac-toe is a paper-and-pencil game for two players. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.",
+  //   techStack: ["HTML 5", "CSS 3", "JavaScript", "ES6"],
+  //   ghLink: "https://tic-tack-toe-lilac.vercel.app/",
+  //   demoLink:
+  //     "https://github.com/masai-course/anirban_fw20_0875/tree/master/unit-1/sprint-1/day-1/TicTackToe",
+  // },
 ];
 
 function Projects() {

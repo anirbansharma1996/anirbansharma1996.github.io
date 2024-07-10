@@ -17,7 +17,8 @@ function ProjectCards(props) {
             alignItems: "center",
           }}
         >
-          <Card.Title>{props.title}</Card.Title>
+          <Card.Title>{props.title} </Card.Title>
+         
           <div>
             <Button
               variant="primary"
@@ -39,6 +40,7 @@ function ProjectCards(props) {
             )}
           </div>
         </div>
+        <h4 style={{fontSize:"15px",marginLeft:"-15.5rem"}}>Category : {props.isBlog}</h4>
         <br />
 
         <Card.Text style={{ textAlign: "justify" }}>
