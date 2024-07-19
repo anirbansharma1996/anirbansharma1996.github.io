@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.76ca045e.css",
-    "main.js": "/static/js/main.a0279c51.js",
+    "main.js": "/static/js/main.347d29af.js",
     "static/js/787.cd3f7c9b.chunk.js": "/static/js/787.cd3f7c9b.chunk.js",
     "static/media/divine-beauty.png": "/static/media/divine-beauty.4c5ccbc438712dda15fa.png",
     "static/media/buyit-git-1.png": "/static/media/buyit-git-1.f536c09b9b587e487a1e.png",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/static/media/pre.eaea65409ade072c94d2.svg",
     "index.html": "/index.html",
     "main.76ca045e.css.map": "/static/css/main.76ca045e.css.map",
-    "main.a0279c51.js.map": "/static/js/main.a0279c51.js.map",
+    "main.347d29af.js.map": "/static/js/main.347d29af.js.map",
     "787.cd3f7c9b.chunk.js.map": "/static/js/787.cd3f7c9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76ca045e.css",
-    "static/js/main.a0279c51.js"
+    "static/js/main.347d29af.js"
   ]
 }
