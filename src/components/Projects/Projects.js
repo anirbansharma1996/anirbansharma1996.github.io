@@ -172,8 +172,6 @@ const projects = [
 ];
 
 function Projects() {
-
-
   return (
     <>
       <Container fluid className="project-section swipper">

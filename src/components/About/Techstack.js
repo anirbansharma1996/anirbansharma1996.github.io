@@ -22,7 +22,7 @@ import {
   SiRazorpay 
 } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
-import { FaSass,FaGitAlt } from "react-icons/fa";
+import { FaSass,FaGitAlt,FaAws } from "react-icons/fa";
 
 const techStackData = [
   { icon: <SiHtml5 />, name: "HTML 5" },
@@ -40,7 +40,7 @@ const techStackData = [
   { icon: <SiBootstrap />, name: "Bootstrap" },
   { icon: <TbBrandNextjs />, name: "Next JS" },
   { icon: <AiTwotoneThunderbolt />, name: "Thunder Client" },
-  { icon: <SiSap />, name: "SAP" },
+  { icon: <FaAws />, name: "AWS" },
   { icon: <SiTailwindcss />, name: "Tailwind" },
   { icon: <FaSass  />, name: "SASS" },
   { icon: <FaGitAlt  />, name: "Git" },

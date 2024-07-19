@@ -6,7 +6,7 @@ const experienceData = [
   {
     company: "RG Technologies",
     role: "Full Stack Web Developer",
-    period: "01 March, 2022 - Present",
+    period: "03 March, 2023 - Present",
     logo: rg,
     link: "https://rg-tech.in",
     responsibilities: [

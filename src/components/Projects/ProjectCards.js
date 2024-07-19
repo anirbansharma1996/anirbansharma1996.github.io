@@ -8,7 +8,6 @@ function ProjectCards(props) {
   return (
     <Card className="project-card-view">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
-
       <Card.Body>
         <div
           style={{
@@ -18,7 +17,6 @@ function ProjectCards(props) {
           }}
         >
           <Card.Title>{props.title} </Card.Title>
-         
           <div>
             <Button
               variant="primary"
@@ -26,23 +24,22 @@ function ProjectCards(props) {
               target="_blank"
               style={{ paddingBottom: "10px" }}
             >
-              <MdOutlineLiveTv />
+            <MdOutlineLiveTv />
             </Button>
             {!props.isComp && props.demoLink && (
               <Button
                 variant="primary"
                 href={props.demoLink}
                 target="_blank"
-                style={{ marginLeft: "10px", paddingBottom: "10px" }}
+                style={{ marginLeft: "17px", paddingBottom: "10px" }}
               >
                 <SiGithub />
               </Button>
             )}
           </div>
         </div>
-        <h4 style={{fontSize:"15px",marginLeft:"-15.5rem"}}>Category : {props.isBlog}</h4>
+        <h4 style={{fontSize:"15px",marginLeft:"-12rem"}}>{props.isBlog}</h4>
         <br />
-
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
